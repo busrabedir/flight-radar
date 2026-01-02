@@ -1,4 +1,4 @@
-# ✈️ Flight Radar
+# ✈️ Udemig Radar
 
 Gerçek zamanlı uçuş verilerini harita ve liste görünümüyle takip edebileceğiniz bir flight radar uygulamasıdır. Türkiye hava sahasındaki aktif uçuşları gösterir, seçilen uçuşun detaylarını ve rotasını interaktif olarak sunar. Redux Toolkit ve modern React yapısı kullanılarak geliştirilmiştir.
 
